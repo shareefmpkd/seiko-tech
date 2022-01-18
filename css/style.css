@@ -8043,7 +8043,9 @@ h1, h2, h3, h4, h5,
         .wrap .top-wrap .text span:first-child {
           text-transform: uppercase; }
         .wrap .top-wrap .text span:last-child {
-          color:#202020 }
+          color:#202020;
+          font-size: 16px;
+          font-weight: bold; }
 
 .ftco-navbar-light {
   background: #fff !important;
